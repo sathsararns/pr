@@ -5,7 +5,8 @@ function demo() {
     <div>
       <div className="container">
         <h1>Demo</h1>
-        <p>This is a demo page.</p>
+        
+        <p>Here you can see how to use the components in this project.</p>
       </div>
     </div>
     
